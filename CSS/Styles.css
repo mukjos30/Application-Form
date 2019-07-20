@@ -1,0 +1,35 @@
+/* .row{
+    background-color:grey; */
+
+input[type=text],input[type=number],input[type=date]{
+    width: 100%;
+    padding: 9px 15px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #year{
+      width:500px;
+      height:40px;
+  }
+  #month{
+    width:500px;
+    height:40px;
+  }
+  #day{
+    width:500px;
+    height:40px;
+
+  }
+  #century{
+    width:500px;
+    height:40px;
+
+  }
+  #gender{
+    width:500px;
+    height:40px
+
+  }
