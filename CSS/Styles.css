@@ -33,3 +33,17 @@ input[type=text],input[type=number],input[type=date]{
     height:40px
 
   }
+  .jumbotron{
+      position:relative;
+      left: 20px;
+
+
+  }
+.row{
+    position:relative;
+    left: 350px;
+
+  }
+  body{
+      background-image:url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptDddyBZG4i4cycd6ZIBP2wT8PQKhihUqenZF7GpzlvTZuPghGQ");
+  }
