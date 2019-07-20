@@ -1,9 +1,9 @@
-## Application-Form
+ ## Application-Form
 
 
  ### My project help people to know his/her Birth Day and his/her Akan Name 
 
- ###Developper:
+ ### Developper:
 
  Josee Mukandayisenga
 
