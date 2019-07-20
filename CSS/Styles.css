@@ -9,6 +9,7 @@ input[type=text],input[type=number],input[type=date]{
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    color:blue
   }
   #year{
       width:500px;
@@ -36,14 +37,29 @@ input[type=text],input[type=number],input[type=date]{
   .jumbotron{
       position:relative;
       left: 20px;
-
+ 
 
   }
 .row{
     position:relative;
     left: 350px;
+ 
 
+  }
+  lue
   }
   body{
       background-image:url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptDddyBZG4i4cycd6ZIBP2wT8PQKhihUqenZF7GpzlvTZuPghGQ");
+  }
+  /* p{
+      font-size:20px; */
+  
+  h1{
+      font-size:30px;
+      color:black;
+      text-align:center;
+      color:blue;
+  }
+  .button{
+     color:blue; 
   }

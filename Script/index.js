@@ -4,6 +4,7 @@ var MM= document.getElementById("month").value;//parseInt(prompt("enter Born Mon
 var YY=document.getElementById("year").value; //parseInt(prompt("enter Born Year"));
 var CC=document.getElementById("century").value;//parseInt(prompt("enter Born Century"));
 var gender =document.getElementById("gender").value;// prompt("enter gender");
+
 // var y= getFullYear();
 // YY= parseInt(y/100)+1;
 var dayOfWeeka =(( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD) % 7;
@@ -55,4 +56,7 @@ else if (dayOfWeek==array[0] && gender=='male'){
   else{
     alert("invalidDD||MM");
 }
+}
+function deleteItems() {
+  localStorage.clear();
 }
